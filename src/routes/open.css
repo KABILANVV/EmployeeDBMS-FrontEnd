@@ -1,0 +1,64 @@
+
+.main{
+    /* width: 100%; */
+    background: linear-gradient(to top left ,rgba(213, 230, 243, 0.5))50%,rgba(255, 80, 80, 0.5)50%, fixed;
+    background-position:center;
+    background-size: cover;
+    height:auto;
+    padding: 80px 20px;
+}
+.icon{
+    width: 10px;
+    height: 100px;
+}
+.logo{
+    color:rgb(73, 113, 100);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    float: left;
+    padding-top: 25px;
+}
+.menu
+{
+    padding: 25px 0px 0px 550px;
+    width: 100px;
+    float: left;
+}
+.work
+{
+    color:white;
+    width:350px;
+    height: auto;
+    /* background: rgba(29, 182, 213, 0.799); */
+    background: rgba(137, 168, 175, 0.799);
+    margin-top: 30%;
+    border-radius: 10px;
+    padding: 10px 30px 30px 0px;
+}
+.d1{
+    box-shadow: 10px;
+}
+.work button{
+    width: 240px;
+    height: 40px;
+    background:rgba(245, 233, 233);
+    color: rgb(47, 150, 150);
+    border: none;
+    margin-top: 30px;
+    margin-left: 15%;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s ease;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
+.work button:hover{
+    /* background-color: rgb(80, 215, 239); */
+    background-color: rgb(47, 150, 150);
+    color: rgb(255, 255, 255);
+    transition: 0.7s;
+}
